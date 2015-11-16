@@ -1,4 +1,4 @@
-package teamwebshop;
+package teametswebshot;
 
 public class Webside {
 }
